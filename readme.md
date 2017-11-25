@@ -2,8 +2,7 @@
 
 **Hongwei Li**
 
-![me](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/me.jpg){width="1.5in"
-height="1.38in"}
+![me](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/me.jpg)
 
 Senior Developer
 
@@ -40,7 +39,7 @@ Press F5 to Start your Web Api project in Visual Studio. Run Postman
 with your proper Web Api urls to test to make sure your Web Apis are
 working.
 
-![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/01.jpg){width="6.5in" height="3.48in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/01.jpg)
 
 2\. **Publish the Web Apis to your local folder**
 
@@ -49,9 +48,9 @@ and right mouse click "Publish\..." to publish your Web Api project to
 your assigned local folder, for example,
 C:\\websites\\webApi\\BookWebApi .
 
-![](media/image20.png){width="6.5in" height="3.6527777777777777in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/02.jpg)
 
-![](media/image12.png){width="6.5in" height="3.5in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/03.jpg)
 
 3\. **Install Microsoft .NET Core Windows Server Hosting bundle file**
 
@@ -75,12 +74,11 @@ we need to create one application pool of No Managed Code at IIS. You
 can highlight "Application Pools" and right mouse click to "Add
 Application Pool..." , for example, NoManagedCodePool.
 
-![](media/image10.png){width="6.5in" height="3.0972222222222223in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/04.jpg)
 
-![](media/image13.png){width="3.9270833333333335in"
-height="3.6354166666666665in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/05.jpg)
 
-![](media/image11.png){width="6.5in" height="3.0277777777777777in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/06.jpg)
 
 \(2) **Create your web site**
 
@@ -90,9 +88,9 @@ your published Web Api code , for example,
 C:\\websites\\webApi\\BookWebApi, and use "NoManagedCodePool" with port
 9001.
 
-![](media/image19.png){width="6.5in" height="3.5833333333333335in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/07.jpg)
 
-![](media/image18.png){width="6.5in" height="3.0972222222222223in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/08.jpg)
 
 Start your web site for your Web Apis.
 
@@ -100,7 +98,7 @@ Start your web site for your Web Apis.
 
 Now you can use Postman to test your Web Apis hosted in IIS.
 
-![](media/image15.png){width="6.5in" height="3.6527777777777777in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/blob/master/image/09.jpg)
 
 Then you have successfully hosted your Web Apis developed with .NET Core
 in IIS locally.
