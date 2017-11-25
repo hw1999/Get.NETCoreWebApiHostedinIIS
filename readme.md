@@ -2,8 +2,8 @@
 
 **Hongwei Li**
 
-![](media/image17.png){width="1.5104166666666667in"
-height="1.3854166666666667in"}
+![me](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/image/me.jpg){width="1.5in"
+height="1.38in"}
 
 Senior Developer
 
@@ -40,7 +40,7 @@ Press F5 to Start your Web Api project in Visual Studio. Run Postman
 with your proper Web Api urls to test to make sure your Web Apis are
 working.
 
-![](media/image16.png){width="6.5in" height="3.486111111111111in"}
+![](https://github.com/hw1999/Get.NETCoreWebApiHostedinIIS/image/01.jpg){width="6.5in" height="3.48in"}
 
 2\. **Publish the Web Apis to your local folder**
 
